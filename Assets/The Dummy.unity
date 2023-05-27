@@ -236,6 +236,48 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 8814ea52310d2614a9feda02ec355ae4, type: 2}
   m_IsPrefabParent: 0
+--- !u!1001 &378291023
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1068856738}
+    m_Modifications:
+    - target: {fileID: 4309074016828652, guid: 9f6f16fab6bcfe64ca31af135e5fdcfd, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309074016828652, guid: 9f6f16fab6bcfe64ca31af135e5fdcfd, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.0381
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309074016828652, guid: 9f6f16fab6bcfe64ca31af135e5fdcfd, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309074016828652, guid: 9f6f16fab6bcfe64ca31af135e5fdcfd, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309074016828652, guid: 9f6f16fab6bcfe64ca31af135e5fdcfd, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309074016828652, guid: 9f6f16fab6bcfe64ca31af135e5fdcfd, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309074016828652, guid: 9f6f16fab6bcfe64ca31af135e5fdcfd, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309074016828652, guid: 9f6f16fab6bcfe64ca31af135e5fdcfd, type: 2}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 9f6f16fab6bcfe64ca31af135e5fdcfd, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1 &580198653
 GameObject:
   m_ObjectHideFlags: 0
@@ -343,3 +385,8 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d17dbae31d265bb48be96785547d7c84, type: 2}
   m_IsPrefabParent: 0
+--- !u!4 &1068856738 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 4182846922419878, guid: d17dbae31d265bb48be96785547d7c84,
+    type: 2}
+  m_PrefabInternal: {fileID: 1068856737}
